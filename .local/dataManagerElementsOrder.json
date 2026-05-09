@@ -1,0 +1,48 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dtConfig&Sequence_1",
+        "dtOutput&Sequence_1",
+        "strInputFolder&Sequence_1",
+        "strArchiveFolder&Sequence_1",
+        "strErrorFolder&Sequence_1",
+        "strOutputFile&Sequence_1",
+        "strSenderEmail&Sequence_1",
+        "strPassword&Sequence_1",
+        "strReceiverEmail&Sequence_1",
+        "strPDFText&Sequence_1",
+        "strInvoiceNo&Sequence_1",
+        "strDate&Sequence_1",
+        "strVendor&Sequence_1",
+        "strGSTIN&Sequence_1",
+        "strTaxable&Sequence_1",
+        "strCGST&Sequence_1",
+        "strSGST&Sequence_1",
+        "strIGST&Sequence_1",
+        "strTotal&Sequence_1",
+        "strStatus&Sequence_1",
+        "strRemarks&Sequence_1",
+        "dblTaxable&Sequence_1",
+        "dblCGST&Sequence_1",
+        "dblSGST&Sequence_1",
+        "dblIGST&Sequence_1",
+        "dblTotal&Sequence_1",
+        "intRow&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
