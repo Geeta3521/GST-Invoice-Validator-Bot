@@ -41,5 +41,3 @@ An RPA (Robotic Process Automation) project developed using UiPath to automate G
 BE in Artificial Intelligence & Machine Learning
 
 GitHub: [https://github.com/Geeta3521](https://github.com/Geeta3521)
-
-This version looks much more professional on GitHub and can also be used directly in your project repository README. 🚀
